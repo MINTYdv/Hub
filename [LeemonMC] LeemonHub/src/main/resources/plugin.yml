@@ -1,0 +1,19 @@
+name: LeemonHub
+version: 1.0
+author: MINTY
+main: com.minty.leemonmc.hub.LeemonHub
+depend: [LeemonCore]
+softdepend: [HolographicDisplays]
+commands:
+  spawn:
+    description: spawn
+  options:
+    description: options
+  opt:
+    description: opt
+  play:
+    description: play command
+  joinmsg:
+    description: joinmsg command
+  prefix:
+    description: prefix command

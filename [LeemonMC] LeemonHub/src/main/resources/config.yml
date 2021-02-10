@@ -1,0 +1,62 @@
+# Configuration du plugin LeemonHub
+# Copyright LeemonMC (www.leemonmc.fr) 2019-2020
+# Plugin par MINTY (MINTY#8171)
+
+names:
+  play: "§e§lJouer §r§7§o(Clic droit)"
+  shop: "§6§lBoutique §r§7§o(Clic droit)"
+  profile: "§b§lProfil §r§7§o(Clic droit)"
+  vanish-on: "§f§lJoueurs: §aVisibles §r§7§o(Clic droit)"
+  vanish-f: "§f§lJoueurs: §dAmis seulement §r§7§o(Clic droit)"
+  vanish-off: "§f§lJoueurs: §cInvisibles §r§7§o(Clic droit)"
+  selector: "§d§lChanger de Lobby §r§7§o(Clic droit)"
+  cosmetics: "§5§lCosmétiques §r§7§o(Clic droit)"
+
+spawn:
+  x: -179.500
+  y: 27
+  z: 782.500
+  yaw: 0
+  pitch: 0
+
+holograms:
+  ranking_global:
+    x: -179.5
+    y: 44
+    z: 849.500
+  ranking_skyrush:
+    x: -185.500
+    y: 43
+    z: 847.500
+  ranking_underground:
+    x: -174.500
+    y: 43
+    z: 848.500
+  ranking_gemsdefender:
+    x: -188.500
+    y: 43
+    z: 844.500
+  ranking_ffaskywars:
+    x: -170.500
+    y: 43
+    z: 844.500
+  welcome:
+    x: -179.500
+    y: 32
+    z: 790.500
+  skyrush:
+    x: -175.500
+    y: 32
+    z: 802.500
+  gemsdefender:
+    x: -186.5 
+    y: 32
+    z: 800.5
+  underground:
+    x: -172.500
+    y: 32
+    z: 800.500
+  ffaskywars:
+    x: -183.500
+    y: 32
+    z: 802.500
